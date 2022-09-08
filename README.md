@@ -10,7 +10,7 @@ Projeto de site sobre Cordel criado no Cap. 20 do curso HTML e CSS do Cursoemvid
 ## - APRENDIZADOS - 
 Além de estruturar o site com HTML e CSS básico, 
 aprendi a inserir imagens de fundo com efeito parallax,
-cuidados com a responsividade do site
+como deixar o site responsivo
 e como hospedar o projeto Cordel no Github Pages.
 
 
