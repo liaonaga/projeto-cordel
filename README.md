@@ -1,12 +1,17 @@
 ## - PROJETO CORDEL - MILTON DUARTE - 
 
-Projeto de site criado no curso de HTML e CSS do Cursoemvideo.
+Projeto do site sobre Cordel criado no Cap. 20 do curso HTML e CSS do Cursoemvideo.
 
 ## - TECNOLOGIAS UTILIZADAS - 
 
 -   HTML
 -   CSS
 
+## - APRENDIZADOS - 
+Além de estruturar o site com HTML e CSS básico, 
+aprendi a inserir imagens de fundo com efeito parallax,
+cuidados com a responsividade do site
+e como hospedar o projeto Cordel no Github Pages.
 
 
 
